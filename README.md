@@ -1,4 +1,9 @@
-### Hi there 👋
+Привет! Меня зовут Антон Борисов, я backend разработчик на Python 👋
+
+
+
+
+Сертификаты Нетологии
 
 <!--
 **b0ris0vant0n/b0ris0vant0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
