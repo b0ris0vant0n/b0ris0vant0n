@@ -3,7 +3,14 @@
 
 
 
-Сертификаты Нетологии
+**Сертификаты Нетологии**
+- Python [GitHub Pages](https://pages.github.com/)
+- Django
+- HTML/CSS
+- JS
+- React
+- Fullstack
+
 
 <!--
 **b0ris0vant0n/b0ris0vant0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
