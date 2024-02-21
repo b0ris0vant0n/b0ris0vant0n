@@ -4,7 +4,7 @@
 
 
 **Сертификаты Нетологии**
-- Python [GitHub Pages](https://pages.github.com/)
+- [Python]([https://pages.github.com/](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20Py.pdf))
 - Django
 - HTML/CSS
 - JS
