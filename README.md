@@ -3,13 +3,15 @@
 
 
 
-**Сертификаты Нетологии**
-- [Python]([https://pages.github.com/](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20Py.pdf))
-- Django
-- HTML/CSS
-- JS
-- React
-- Fullstack
+**Сертификаты Нетологии:**
+- [Python](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20Py.pdf)
+- [Django](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20django.pdf)
+- [SQL](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20sql.pdf)
+- [HTML/CSS](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20html.pdf)
+- [JavaScript](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20JS.pdf)
+- [Git](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20git.pdf)
+- [React](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate%20React.pdf)
+- [Fullstack Разработчик](https://github.com/b0ris0vant0n/b0ris0vant0n/blob/main/certificates/certificate.pdf)
 
 
 <!--
